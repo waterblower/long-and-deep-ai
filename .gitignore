@@ -1,0 +1,16 @@
+# macOS metadata and filesystem artifacts
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+__MACOSX/
+.Spotlight-V100/
+.Trashes/
+.TemporaryItems/
+.fseventsd/
+.DocumentRevisions-V100/
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.apdisk
+Network Trash Folder/
+Temporary Items/
